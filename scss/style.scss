@@ -400,12 +400,14 @@
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 16px;
+  line-height: 1.7;
   @include mq(sp) {
     font-size: 20px;
   }
 }
 .about-text1 {
   margin-bottom: 16px;
+  line-height: 1.7;
 }
 .service-details,
 .address,
@@ -416,6 +418,10 @@
 }
 .service-text {
   margin-bottom: 16px;
+  line-height: 1.7;
+}
+.tools {
+  line-height: 1.7;
 }
 // CONTACT
 .contact {

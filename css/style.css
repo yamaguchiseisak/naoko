@@ -791,6 +791,7 @@ li {
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 16px;
+  line-height: 1.7;
 }
 @media screen and (max-width:599px) {
   .about-title {
@@ -800,6 +801,7 @@ li {
 
 .about-text1 {
   margin-bottom: 16px;
+  line-height: 1.7;
 }
 
 .service-details,
@@ -812,6 +814,11 @@ li {
 
 .service-text {
   margin-bottom: 16px;
+  line-height: 1.7;
+}
+
+.tools {
+  line-height: 1.7;
 }
 
 .contact {
